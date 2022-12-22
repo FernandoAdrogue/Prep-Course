@@ -1,0 +1,9 @@
+Variables: es un espacio en la computadoras donde se puede guardar cosas , valores o información para despues poder recuperarla o modificarla. Las variables se identifican con un nombre
+
+Strings: son un tipo de datos formado por una cadena de caracteres, que pueden ser letras números o simbolos, encerrados entre comillas.
+
+Funciones (argumentos, return): es una porcion de codigo que se puede reutilizar sin tener que escribirlo nuevamente. Son muy utiles cuando una tarea se tiene que hacer muchas veces. Las funciones se ejecutan llamandolas por su nombre y siempre retornan algo.
+
+Declaraciones if: es una sentencia condicional que permite ejecutar un conjunto de codigo u otro segun la evaluacion de expresión que se puede resolver como verdadero o falso.
+
+Valores booleanos (true, false): son un tipo de dato que solo puede tener dos valores posibles, verdadero o falso. Cuando se comparan expresiones el resultado siempre es booleano.
