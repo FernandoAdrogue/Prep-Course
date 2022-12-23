@@ -1,0 +1,7 @@
+FOR: el bucle for es una estructura de control de flujo que permite ejecutar repetidamente, una deterninada cantidad de veces, un conjunto de codigo. Tiene una variable para contabilizar la cantidad de iteraciones realizadas y se detiene cuando se cumple la cantidad de repeticiones indicada en los paramentros del bloque.
+
+&&: es un operador conocido como AND y permite combinar expresiones que se puedan resolver como booleanas. El resultado de la combinacion solo sera true cuando las dos expresiones se puedan resolver como true. en cualquier otro caso el resultado sera false.
+
+||: es un operador conocido como OR. Permite combinar expresiones que se puedan resolver como booleanas y el resultado de la combinacion solo sera false cuando las dos expresiones se resuelvan como false, en cualquier otro caso el resultado sera true.
+
+!: es un operador que sirve para comparar expresiones de cualquier tipo. El resultado sera false solo cuado las expresiones sean iguales, en otro caso el resultado sera true.
