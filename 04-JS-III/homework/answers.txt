@@ -1,0 +1,1 @@
+Arrays: Los arreglos son una forma de guardar una colección de datos con un mismo nombre. Es un contenedor en donde cada dato se puede acceder con un índice numérico que inicia con el 0. Funciona como una variable pero con casilleros numerados.
