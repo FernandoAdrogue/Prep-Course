@@ -1,0 +1,8 @@
+Objeto: es una colección de elementos a los que se puede hacer referencia mediante una lista claves alfanuméricas desordenadas. 
+Propiedad: cada elemento de un objeto se lo conoce como una propiedad y es un par clave valor, puede ser cualquier tipo de datos incluso funciones u otro objeto
+
+Métodos: las propiedades son funciones se las conoce como métodos.
+
+Bucles for...in: los objetos al igual que los arreglos son una colección de pares clave valor, en los arreglos las claves son numéricas y ordenadas pero en los objetos son alfanuméricas y desordenadas, por eso no se pueden recorrer con un for convencional, para eso estas el statement for...in que permite recorrer un objeto mediante sus claves alfanuméricas
+
+Notaciones: existen dos tipos de notaciones para acceder a métodos y propiedades de un objeto, mediante [] que es bueno cuando la clave está en una variable y con un punto ( . )en donde es más sencilla de usar cuando la referencia a la clave es literal.
