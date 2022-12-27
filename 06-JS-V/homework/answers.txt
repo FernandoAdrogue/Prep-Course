@@ -1,0 +1,4 @@
+prototype: todos los objetos tienen un prototipo al que hacen referencia. Este prototipo funciona como una plantilla y todos métodos y propiedades del prototipo son heredados al objeto.
+
+
+Constructores: son funciones especiales que se usan para crear los objetos. Por convención su nombre comienza con mayúscula y no poseen un return en el bloque de función.
