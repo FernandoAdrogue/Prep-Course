@@ -1,0 +1,2 @@
+Funciones callback: en JavaScript las funciones son consideradas como un objeto de esta forma se pueden pasar como argumento a otra función y también pueden ser retornadas por una función.
+Cuando una función es pasada como argumento se le llama callback.
