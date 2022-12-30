@@ -1,0 +1,32 @@
+h1{ 
+    color:orangered;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: lightslategray;
+    padding: 50px;
+    border: solid 10px orangered;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
+
+div {
+    margin: 0 auto;
+}
+
+body {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
